@@ -40,7 +40,7 @@
       "label": "Model Name",
       "type": "string",
       "description": "The model name",
-      "default value": "gpt-4o-mini"
+      "default value": "gpt-6-luna"
     },
     {
       "identifier": "apikey",

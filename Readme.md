@@ -22,7 +22,7 @@ Send the selected text to an OpenAI compatible LLM service, such as [OpenAI](htt
 #### Model Name
 
 * **Gaia:** you can use `default`
-* **OpenAI:** default model is `gpt-4o-mini`
+* **OpenAI:** default model is `gpt-6-luna`
 
 ## About
 
