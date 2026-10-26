@@ -3,7 +3,7 @@
   "icon": "spell-check.svg",
   "identifier": "tw.hydai.popclip.extension.llm-grammar",
   "description": "Improve and polish the selected text using LLM. Hold Shift (⇧) to copy just the response.",
-  "note": "To use this extension you will need access to an OpenAI compatible LLM API service, such as <a href=\"https://platform.openai.com/docs/overview\">OpenAI</a> or <a href=\"https://docs.gaianet.ai/getting-started/quick-start\">Gaia</a>",
+  "note": "To use this extension you will need access to an OpenAI compatible LLM API service, such as <a href=\"https://platform.openai.com/docs/overview\">OpenAI</a>",
   "app": {
     "name": "Grammar",
     "link": "https://github.com/hydai/LLM-Grammar-PopClip-Extension"
@@ -46,7 +46,7 @@
       "identifier": "apikey",
       "label": "API Key",
       "type": "string",
-      "description": "If you are using your own Gaia nodes. You will not need this!"
+      "description": "The API key for the endpoint (for OpenAI: https://platform.openai.com/account/api-keys). Leave empty if the endpoint does not require one."
     }
   ]
 }
