@@ -6,7 +6,7 @@
   "note": "To use this extension you will need you will need access to an OpenAI compatible LLM API service, such as <a href=\"https://platform.openai.com/docs/overview\">OpenAI</a> or <a href=\"https://docs.gaianet.ai/getting-started/quick-start\">Gaia</a>",
   "app": {
     "name": "Grammar",
-    "link": "https://github.com/hydai/AI-Grammar-Check-PopClip-Extension"
+    "link": "https://github.com/hydai/LLM-Grammar-PopClip-Extension"
   },
   "popclipVersion": 4069,
   "module": "chatgpt-grammar-check.js",
